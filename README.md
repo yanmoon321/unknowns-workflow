@@ -2,6 +2,8 @@
 
 English | [简体中文](README.zh-CN.md)
 
+[![skills.sh](https://skills.sh/b/yanmoon321/unknowns-workflow)](https://skills.sh/yanmoon321/unknowns-workflow)
+
 A single agent skill for turning hidden assumptions, constraints, and risks into explicit decisions before they become expensive rework.
 
 The skill routes itself to the smallest useful stage:
