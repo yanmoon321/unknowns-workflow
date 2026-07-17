@@ -2,8 +2,6 @@
 
 [English](README.md) | 简体中文
 
-[![skills.sh](https://skills.sh/b/yanmoon321/unknowns-workflow)](https://skills.sh/yanmoon321/unknowns-workflow)
-
 一个用于将隐藏的假设、约束和风险转化为明确决策的 Agent Skill，帮助你在返工成本变高前发现问题。
 
 它会自行选择最小必要阶段：
