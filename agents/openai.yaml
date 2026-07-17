@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Workflow"
+  short_description: "Find blind spots and guide work by stage"
+  default_prompt: "Use $unknowns-workflow to identify the right next stage for this task."
